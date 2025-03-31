@@ -1,5 +1,4 @@
-[![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
-
+![Shopco Screenshot](https://github.com/Mohmmed-Zaid/Shopco/)
 # Shopco
 
 Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
@@ -26,9 +25,8 @@ Shopco bridges the gap between design and development by converting Figma design
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
+Check out the live demo: [Shopco Demo](https://shopco.vercel.app/)
 
-<!-- [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/) -->
 
 ## Features
 
@@ -59,7 +57,7 @@ To get started with Shopco locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-shopco.git
+   git clone https://github.com/Mohmmed-Zaid/Shopco/
    cd next-ecommerce-shopco
    ```
 
@@ -142,5 +140,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 Feel free to reach out to:
 
 - **Name**: Mohammad Oftadeh
-- **Email**: [mr.mohammadoftadeh@gmail.com](mailto:mr.mohammadoftadeh@gmail.com)
-- **GitHub**: [https://github.com/mohammadoftadeh](https://github.com/mohammadoftadeh)
+- **Email**: [mohmmedzaidshaikh@gamil.com](mohmmedzaidshaikh@gmail.com)
+- **GitHub**: [https://github.com/Mohmmed-Zaid/Shopco/](https://github.com/Mohmmed-Zaid/Shopco/)

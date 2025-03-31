@@ -28,7 +28,7 @@ const socialsData: SocialNetworks[] = [
   {
     id: 4,
     icon: <FaGithub />,
-    url: "https://github.com/mohammadoftadeh",
+    url: "https://github.com/Mohmmed-Zaid",
   },
 ];
 
@@ -105,10 +105,10 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               Shop.co © Made by{" "}
               <Link
-                href="https://github.com/mohammadoftadeh"
+                href="https://github.com/Mohmmed-Zaid"
                 className="text-black font-medium"
               >
-                Mohammad Oftadeh
+                Mohmmed Zaid
               </Link>
               {", "}
               Designed by{" "}
@@ -116,7 +116,7 @@ const Footer = () => {
                 href="https://www.figma.com/@hamzauix"
                 className="text-black font-medium"
               >
-                Hamza Naeem
+                Mohmmed Zaid & co.
               </Link>
             </p>
             <div className="flex items-center">
