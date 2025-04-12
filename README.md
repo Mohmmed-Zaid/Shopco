@@ -139,6 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 Feel free to reach out to:
 
-- **Name**: Mohammad Oftadeh
+- **Name**: Mohmmed Zaid
 - **Email**: [mohmmedzaidshaikh@gamil.com](mohmmedzaidshaikh@gmail.com)
 - **GitHub**: [https://github.com/Mohmmed-Zaid/Shopco/](https://github.com/Mohmmed-Zaid/Shopco/)
